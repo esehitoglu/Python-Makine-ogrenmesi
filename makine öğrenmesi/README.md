@@ -1,0 +1,2 @@
+kaynak: BTK Akademi sadi evren şeker hocanın "Python ile Makine Öğrenmesi" notlarından derledim, bazı parça parça verilmiş kodları bütün olarak çalıştırdım github'a yüklemek istemedim isteyen burdanda alıp faydalanabilsin diye.
+https://bilkav.com/makine-ogrenmesi-egitimi/
